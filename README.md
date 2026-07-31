@@ -985,4 +985,472 @@ To contribute to next-generation technologies that improve lives through innovat
 
 </div>
 
+# 🌦️ Agentic AI Weather Monitoring System
+
+## 🏗️ System Architecture
+
+```mermaid
+flowchart TD
+    A[User] --> B[Flask Web Application]
+
+    B --> C[Weather Query Controller]
+
+    C --> D[Open-Meteo API]
+    C --> E[OpenStreetMap API]
+
+    D --> F[Data Collector Agent]
+    E --> F
+
+    F --> G[Risk Analysis Agent]
+    G --> H[Trend Prediction Agent]
+    H --> I[Action Advisor Agent]
+    I --> J[Conversational AI Assistant]
+
+    J --> K[Machine Learning Engine]
+
+    K --> L[Random Forest]
+    K --> M[Isolation Forest]
+    K --> N[Ridge Regression]
+
+    J --> O[(SQLite Database)]
+
+    J --> P[Weather Dashboard]
+
+    P --> Q[Interactive WebGL Visualization]
+```
+
+## 📂 Project Structure
+
+```text
+Agentic-AI-Weather-Monitoring-System/
+│
+├── app.py
+├── agents/
+│   ├── data_collector.py
+│   ├── risk_analyzer.py
+│   ├── trend_predictor.py
+│   ├── action_advisor.py
+│   └── conversational_agent.py
+│
+├── models/
+│   ├── random_forest.py
+│   ├── isolation_forest.py
+│   └── ridge_regression.py
+│
+├── database/
+│   └── weather_system.db
+│
+├── static/
+│   ├── css/
+│   ├── js/
+│   └── shaders/
+│
+├── templates/
+├── utils/
+└── requirements.txt
+```
+
+## ⚙️ Technology Stack
+
+| Layer | Technology |
+|--------|------------|
+| Backend | Flask |
+| AI | Agentic AI |
+| ML | Scikit-Learn |
+| Database | SQLite |
+| APIs | Open-Meteo + OpenStreetMap |
+| Frontend | HTML, CSS, JavaScript |
+| Visualization | WebGL |
+| Deployment | Vercel |
+
+## 🔄 AI Pipeline
+
+```mermaid
+sequenceDiagram
+    User->>Flask App: Search Weather
+    Flask App->>Open-Meteo API: Request Weather
+    Open-Meteo API-->>Flask App: Weather Data
+    Flask App->>Data Collector Agent: Process Data
+    Data Collector Agent->>Risk Analyzer: Weather Risk
+    Risk Analyzer->>Trend Predictor: Forecast
+    Trend Predictor->>Action Advisor: Recommendations
+    Action Advisor->>AI Assistant: Final Response
+    AI Assistant-->>User: Weather Intelligence
+```
+
+## ☁️ Deployment Architecture
+
+```mermaid
+graph LR
+    User --> Browser
+    Browser --> Vercel
+    Vercel --> Flask
+    Flask --> APIs
+    Flask --> SQLite
+```
+
+## 🌟 Engineering Highlights
+
+- Five Autonomous AI Agents
+- Machine Learning Forecasting
+- Global Weather Search
+- Interactive WebGL Dashboard
+- Serverless Deployment
+- Intelligent Conversational Assistant
+
+## 📈 Project Status
+
+| Category | Status |
+|----------|:------:|
+| Multi-Agent AI | ✅ |
+| Machine Learning | ✅ |
+| Cloud Ready | ✅ |
+| Responsive UI | ✅ |
+| Production Deployment | ✅ |
+
+## 🔗 Links
+
+- **GitHub:** https://github.com/Mugilan-md/Agentic-AI-Weather-Monitoring-System
+- **Live Demo:** https://agentic-ai-wms.vercel.app
 ---
+
+# 🌦️ Featured Project I — Agentic AI Weather Monitoring System
+
+<div align="center">
+
+## 🤖 Enterprise-Grade Autonomous Multi-Agent Weather Intelligence Platform
+
+<img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Multi--Agent%20AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📖 Executive Summary
+
+The **Agentic AI Weather Monitoring System** is an enterprise-grade weather intelligence platform powered by a **5-Agent Autonomous AI Pipeline**.
+
+Instead of displaying raw weather information, the platform coordinates multiple intelligent agents that **collect**, **analyze**, **forecast**, **recommend**, and **communicate** weather insights in real time.
+
+The system integrates Machine Learning, cloud-native architecture, interactive WebGL visualization, and conversational AI into a unified decision-support platform.
+
+---
+
+# 🏗️ Enterprise System Architecture
+
+```mermaid
+flowchart LR
+
+User((User))
+
+User --> UI
+
+UI["🌐 Flask Web Application"]
+
+UI --> Controller
+
+Controller["Weather Controller"]
+
+Controller --> API1["Open-Meteo API"]
+
+Controller --> API2["OpenStreetMap API"]
+
+API1 --> Collector
+
+API2 --> Collector
+
+Collector["🛰 Data Collector Agent"]
+
+Collector --> Risk
+
+Risk["⚠ Risk Analysis Agent"]
+
+Risk --> Predictor
+
+Predictor["📈 Trend Prediction Agent"]
+
+Predictor --> Advisor
+
+Advisor["🧠 Action Advisor Agent"]
+
+Advisor --> Assistant
+
+Assistant["💬 Conversational AI Agent"]
+
+Assistant --> ML
+
+ML["Machine Learning Engine"]
+
+ML --> RF["Random Forest"]
+
+ML --> IF["Isolation Forest"]
+
+ML --> Ridge["Ridge Regression"]
+
+Assistant --> SQLite[(SQLite Database)]
+
+Assistant --> Dashboard
+
+Dashboard["Interactive Weather Dashboard"]
+
+Dashboard --> Shader["WebGL Shader Engine"]
+
+```
+
+---
+
+# 🔄 AI Agent Workflow
+
+```mermaid
+sequenceDiagram
+
+participant User
+
+participant Collector
+
+participant Risk
+
+participant Predictor
+
+participant Advisor
+
+participant Assistant
+
+User->>Collector: Request Weather
+
+Collector->>Collector: Collect Live Weather
+
+Collector->>Risk: Weather Dataset
+
+Risk->>Predictor: Risk Assessment
+
+Predictor->>Advisor: Weather Forecast
+
+Advisor->>Assistant: Action Recommendation
+
+Assistant-->>User: Intelligent Weather Report
+
+```
+
+---
+
+# ☁️ Cloud Deployment Architecture
+
+```mermaid
+flowchart TD
+
+User
+
+Browser
+
+Vercel
+
+Flask
+
+SQLite
+
+WeatherAPI
+
+OpenStreetMap
+
+WebGL
+
+User --> Browser
+
+Browser --> Vercel
+
+Vercel --> Flask
+
+Flask --> SQLite
+
+Flask --> WeatherAPI
+
+Flask --> OpenStreetMap
+
+Browser --> WebGL
+
+```
+
+---
+
+# 📂 Repository Structure
+
+```text
+Agentic-AI-Weather-Monitoring-System
+
+├── app.py
+├── requirements.txt
+├── agents/
+│   ├── data_collector.py
+│   ├── risk_analyzer.py
+│   ├── trend_predictor.py
+│   ├── action_advisor.py
+│   └── conversational_assistant.py
+│
+├── ml/
+│   ├── random_forest.py
+│   ├── isolation_forest.py
+│   └── ridge_forecasting.py
+│
+├── templates/
+├── static/
+│   ├── css/
+│   ├── javascript/
+│   └── shaders/
+│
+├── database/
+│   └── weather_system.db
+│
+└── utils/
+
+```
+
+---
+
+# ⚙️ Technology Stack
+
+| Layer | Technology |
+|:------|:-----------|
+| Programming Language | Python 3.12 |
+| Backend Framework | Flask |
+| Machine Learning | Scikit-Learn |
+| ML Algorithms | Random Forest, Isolation Forest, Ridge Regression |
+| Database | SQLite |
+| APIs | Open-Meteo API, OpenStreetMap Nominatim |
+| Frontend | HTML5, CSS3, JavaScript |
+| Graphics | WebGL Shader Engine |
+| Deployment | Vercel |
+
+---
+
+# 🧠 AI Service Layer
+
+| AI Component | Purpose |
+|:-------------|:--------|
+| 🛰 Data Collector | Retrieves global weather telemetry |
+| ⚠ Risk Analyzer | Detects hazardous weather conditions |
+| 📈 Trend Predictor | Predicts short-term weather trends |
+| 🧠 Action Advisor | Generates intelligent recommendations |
+| 💬 Conversational Assistant | Answers natural language weather queries |
+
+---
+
+# 📊 Machine Learning Models
+
+| Model | Purpose |
+|:------|:--------|
+| 🌲 Random Forest | Weather Risk Classification |
+| 🌳 Isolation Forest | Weather Anomaly Detection |
+| 📉 Ridge Regression | Time-Series Weather Forecasting |
+
+---
+
+# ✨ Core Features
+
+- 🤖 Autonomous Multi-Agent Architecture
+- 🌍 Global Weather Search
+- 🧠 Conversational AI Assistant
+- 📈 ML-based Weather Prediction
+- ⚠ Intelligent Risk Assessment
+- 🌦 Live Weather Monitoring
+- 🗄 Persistent SQLite Storage
+- 🎨 Interactive WebGL Background
+- 🚀 Cloud Native Deployment
+- 📊 Historical Weather Analytics
+- 🔄 Automatic Failover System
+
+---
+
+# 📈 Engineering Highlights
+
+<div align="center">
+
+| Metric | Value |
+|:------|:-----:|
+| AI Agents | 5 |
+| Machine Learning Models | 3 |
+| Weather APIs | 2 |
+| Database | SQLite |
+| Deployment | Serverless |
+| Dashboard | Interactive |
+| Cloud Ready | ✅ |
+
+</div>
+
+---
+
+# 🔐 Security & Reliability
+
+- Secure API communication
+- Graceful API failover
+- Persistent local database
+- Modular architecture
+- Separation of concerns
+- Fault-tolerant agent pipeline
+- Production-ready deployment
+
+---
+
+# 🚀 Future Enhancements
+
+- Deep Learning Weather Prediction
+- Satellite Weather Integration
+- AI Voice Assistant
+- Mobile Companion App
+- Edge AI Deployment
+- Docker & Kubernetes Support
+- Multi-language Conversational AI
+- Weather Alert Notification System
+
+---
+
+# 📌 Repository Overview
+
+<div align="center">
+
+<a href="https://github.com/Mugilan-md/Agentic-AI-Weather-Monitoring-System">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mugilan-md&repo=Agentic-AI-Weather-Monitoring-System&theme=tokyonight"/>
+
+</a>
+
+</div>
+
+---
+
+# 🌐 Live Demonstration
+
+<div align="center">
+
+<a href="https://agentic-ai-wms.vercel.app">
+
+<img src="https://img.shields.io/badge/🌍%20Launch%20Live%20Demo-1E88E5?style=for-the-badge"/>
+
+</a>
+
+</div>
+
+---
+
+# 💡 Engineering Takeaways
+
+✔ Multi-Agent AI System Design
+
+✔ Cloud-Native Development
+
+✔ Machine Learning Integration
+
+✔ Weather Intelligence Automation
+
+✔ Production Deployment Strategy
+
+✔ Modular Software Architecture
+
+✔ Real-Time API Integration
+
+✔ Interactive Visualization using WebGL
+
+------
