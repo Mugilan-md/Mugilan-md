@@ -599,7 +599,7 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 ---
 
-## 🔬 Analog VLSI In-Plant Training
+## 🔬 Analog VLSI and IC Design In-Plant Training
 
 **Abijeeth Electronics**
 
@@ -737,7 +737,16 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 </div>
 
+
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mugilan-md/Mugilan-md/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+------
 
 # 🤝 Let's Connect
 
