@@ -637,8 +637,7 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 - Artificial Intelligence
 - Cloud Computing
 - Semiconductor Engineering
-- Embedded Systems
-- Internet of Things
+- VLSI design
 - Full Stack Development
 - Machine Learning
 - Agentic AI
