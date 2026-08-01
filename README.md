@@ -670,7 +670,7 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 | Achievement | Description |
 |:------------|:------------|
-| 🏅 24-Hour Hackathon | Participated in a National Level Hackathon at KPR College |
+| 🏅 24-Hour Hackathon | Participated in a National Level Hackathon at KPR College of Engineering |
 | 🧠 Tata Crucible Campus Quiz | Participated in India's Prestigious Campus Quiz Competition |
 | 🤖 AI Projects | Successfully Built Multiple AI-Powered Full Stack Applications |
 | 💻 Full Stack Development | Designed and Deployed Production Ready Web Applications |
@@ -716,13 +716,6 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 ---
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mugilan-md&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
 
 ---
 
@@ -762,8 +755,6 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-1E88E5?style=for-the-badge"/>
-
 </div>
 
 ---
@@ -774,7 +765,7 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 Mission:
   - Build enterprise-grade AI applications.
   - Explore Cloud Computing technologies.
-  - Learn Semiconductor & Embedded AI.
+  - Learn about Semiconductor industry and VLSI design .
   - Contribute to Open Source.
   - Secure an AI Engineering Internship.
   - Publish impactful engineering projects.
