@@ -737,9 +737,18 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 </div>
 
+# GitHub Follow Button
+
+<p align="center">
+
+<a href="https://github.com/Mugilan-md">
+<img src="https://img.shields.io/github/followers/Mugilan-md?label=Follow&style=for-the-badge"/>
+</a>
+
+</p>
+
 
 ---
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -787,20 +796,17 @@ Vision:
 
 ---
 
-<div align="center">
-
-## 💬 Quote
-
-### *"Building Smarter Systems with Precision and Passion."*
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:1E88E5,100:42A5F5&height=120&section=footer"/>
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
 
-### ⭐ Thanks for visiting my GitHub Profile!
+<p align="center">
+Building Smarter Systems with Precision and Passion.
+</p>
 
-**If you like my projects, consider giving them a ⭐ and connecting with me!**
-
-</div>
-
+<p align="center">
+Made with ❤️ by <b>B. Mugilan</b>
+</p>
 ---
