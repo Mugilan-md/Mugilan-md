@@ -230,61 +230,7 @@ Open To:
 
 An enterprise-grade weather intelligence platform powered by **Agentic AI**, integrating autonomous multi-agent reasoning, machine learning prediction engines, anomaly detection, cloud-native deployment, and interactive visualization for real-time weather analysis.
 
----
-
-## 🏗️ Enterprise Architecture
-
-```mermaid
-flowchart LR
-
-subgraph External["🌍 External Services"]
-    API1["Open-Meteo API"]
-    API2["OpenStreetMap API"]
-end
-
-subgraph AI["🤖 Agentic AI Pipeline"]
-    DC["🛰️ Data Collector"]
-    RA["⚠️ Risk Analyzer"]
-    TP["📈 Trend Predictor"]
-    AA["🧠 Action Advisor"]
-    CA["💬 Conversational Assistant"]
-end
-
-subgraph ML["🧠 Machine Learning"]
-    RF["Random Forest"]
-    IF["Isolation Forest"]
-    RR["Ridge Regression"]
-end
-
-subgraph Storage["💾 Data Layer"]
-    DB[("SQLite Database")]
-end
-
-subgraph UI["🌐 User Interface"]
-    Dashboard["Interactive Weather Dashboard"]
-end
-
-API1 --> DC
-API2 --> DC
-
-DC --> RA
-RA --> TP
-TP --> AA
-AA --> CA
-
-RA --> RF
-RA --> IF
-TP --> RR
-
-DC --> DB
-RA --> DB
-TP --> DB
-AA --> DB
-
-CA --> Dashboard
-DB --> Dashboard
-```
-### ⚙️ Tech Stack
+### ⚙️ Technology Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -297,7 +243,6 @@ DB --> Dashboard
 | Visualization | WebGL |
 | Deployment | Vercel |
 
----
 
 ### ✨ Key Features
 
