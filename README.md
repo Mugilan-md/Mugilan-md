@@ -56,7 +56,7 @@ Currently, I am expanding my expertise in:
 - ☁️ Cloud Computing
 - 🧠 Machine Learning
 - 🔬 Semiconductor Technologies
-- 📡 Embedded Systems
+- 📡 VLSI designer
 - 🌐 Full Stack Development
 - 🌍 Internet of Things
 
@@ -70,9 +70,9 @@ I strongly believe that continuous learning, experimentation, and practical impl
 Name: B. Mugilan
 
 Role:
-  AI Engineer
   Electronics & Communication Engineering Student
   Full Stack Developer
+  AI Engineer
 
 Location:
   Madurai, Tamil Nadu, India
@@ -99,8 +99,6 @@ Open To:
   - Semiconductor Projects
   - Collaborative Development
 ```
-
----
 
 # ⚡ Tech Stack
 
@@ -176,7 +174,7 @@ Learning:
   - Agentic AI
   - Cloud Computing
   - Semiconductor Design
-  - Embedded AI
+  - VLSI Design
 
 Building:
   - Agentic AI Weather Monitoring System
@@ -234,35 +232,58 @@ An enterprise-grade weather intelligence platform powered by **Agentic AI**, int
 
 ---
 
-### 🏗️ Architecture
+## 🏗️ Enterprise Architecture
 
-```text
-Weather APIs
-      │
-      ▼
-┌────────────────────┐
-│ Data Collector AI  │
-└─────────┬──────────┘
-          ▼
-┌────────────────────┐
-│ Risk Analyzer AI   │
-└─────────┬──────────┘
-          ▼
-┌────────────────────┐
-│ Trend Predictor AI │
-└─────────┬──────────┘
-          ▼
-┌────────────────────┐
-│ Action Advisor AI  │
-└─────────┬──────────┘
-          ▼
-┌────────────────────┐
-│ AI Assistant        │
-└────────────────────┘
+```mermaid
+flowchart LR
+
+subgraph External["🌍 External Services"]
+    API1["Open-Meteo API"]
+    API2["OpenStreetMap API"]
+end
+
+subgraph AI["🤖 Agentic AI Pipeline"]
+    DC["🛰️ Data Collector"]
+    RA["⚠️ Risk Analyzer"]
+    TP["📈 Trend Predictor"]
+    AA["🧠 Action Advisor"]
+    CA["💬 Conversational Assistant"]
+end
+
+subgraph ML["🧠 Machine Learning"]
+    RF["Random Forest"]
+    IF["Isolation Forest"]
+    RR["Ridge Regression"]
+end
+
+subgraph Storage["💾 Data Layer"]
+    DB[("SQLite Database")]
+end
+
+subgraph UI["🌐 User Interface"]
+    Dashboard["Interactive Weather Dashboard"]
+end
+
+API1 --> DC
+API2 --> DC
+
+DC --> RA
+RA --> TP
+TP --> AA
+AA --> CA
+
+RA --> RF
+RA --> IF
+TP --> RR
+
+DC --> DB
+RA --> DB
+TP --> DB
+AA --> DB
+
+CA --> Dashboard
+DB --> Dashboard
 ```
-
----
-
 ### ⚙️ Tech Stack
 
 | Category | Technologies |
