@@ -727,6 +727,22 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 </div>
 
+# 💡 Current Mission
+
+```yaml
+Mission:
+  - Build enterprise-grade AI applications.
+  - Explore Cloud Computing technologies.
+  - Learn about Semiconductor industry and VLSI design .
+  - Contribute to Open Source.
+  - Secure an AI Engineering Internship.
+  - Publish impactful engineering projects.
+
+Vision:
+  To bridge Artificial Intelligence, Cloud Computing,
+  and Semiconductor Engineering for solving
+  real-world problems through scalable technology.
+```
 ---
 
 # 👀 Visitor Counter
@@ -774,26 +790,6 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 </a>
 
 </div>
-
----
-
-# 💡 Current Mission
-
-```yaml
-Mission:
-  - Build enterprise-grade AI applications.
-  - Explore Cloud Computing technologies.
-  - Learn about Semiconductor industry and VLSI design .
-  - Contribute to Open Source.
-  - Secure an AI Engineering Internship.
-  - Publish impactful engineering projects.
-
-Vision:
-  To bridge Artificial Intelligence, Cloud Computing,
-  and Semiconductor Engineering for solving
-  real-world problems through scalable technology.
-```
-
 ---
 
 ---
