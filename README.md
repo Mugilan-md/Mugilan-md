@@ -696,13 +696,17 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 ---
 
+<!-- ====================================================== -->
+<!--               GITHUB ANALYTICS                         -->
+<!-- ====================================================== -->
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mugilan-md&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mugilan-md&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugilan-md&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Mugilan-md&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -710,11 +714,27 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugilan-md&theme=tokyo-night&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugilan-md&theme=tokyo-night&hide_border=true&radius=12"/>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mugilan-md&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mugilan-md&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+-----
 
 ---
 
