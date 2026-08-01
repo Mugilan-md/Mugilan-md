@@ -743,8 +743,8 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 <div align="center">
 
-<a href="mailto:mugilan0602@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mugilan0602@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mugilan-b-b28726336">
