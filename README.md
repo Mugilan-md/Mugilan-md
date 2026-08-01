@@ -700,9 +700,9 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mugilan-md&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mugilan-md&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugilan-md&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugilan-md&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -710,12 +710,11 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mugilan-md&theme=tokyonight&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugilan-md&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
-
 
 ---
 
