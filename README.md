@@ -46,7 +46,7 @@
 
 Hi there! 👋
 
-I'm **B. Mugilan**, an Electronics and Communication Engineering student passionate about building intelligent systems by integrating **Artificial Intelligence**, **Cloud Computing**, **Embedded Systems**, and **Semiconductor Technologies**.
+I'm **B. Mugilan**, an Electronics and Communication Engineering student passionate about building intelligent systems by integrating **Artificial Intelligence**, **Cloud Computing**, **VLSI Design**, and **Semiconductor Technologies**.
 
 I enjoy developing real-world applications that combine modern software engineering practices with emerging technologies. My primary interests lie in creating scalable AI-powered solutions, exploring Agentic AI architectures, and leveraging cloud technologies to solve practical engineering challenges.
 
