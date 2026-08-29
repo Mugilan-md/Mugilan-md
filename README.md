@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI%20Engineer-Enterprise%20Blue-0F4C81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-0F4C81?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/ECE-Student-1565C0?style=for-the-badge"/>
 
