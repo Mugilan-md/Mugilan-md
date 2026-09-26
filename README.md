@@ -589,8 +589,6 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 ---
 
-> 🚀 **Next:** Continue with **Part 4** (Certifications, Achievements, GitHub Analytics, Contact, and Premium Footer).
-
 # 📜 Certifications
 
 <div align="center">
@@ -598,9 +596,9 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 | Provider | Certification |
 |:----------|:--------------|
 | 🏅 NASSCOM | Introduction to IoT & Digital Transformation (Bronze Medal) |
-| 💻 Infosys Springboard | Basics of Electronics & Electronics |
+| 💻 Infosys Springboard | Basics of Electronics & Programming |
 | 🐍 Infosys Springboard | Python Technology Stack |
-| 🤖 Infosys Springboard | Generative AI Basics |
+| 🤖 Infosys Springboard | Generative AI for All |
 | 📊 NPTEL | Data Analytics with Python |
 | 🚀 Be10x | Artificial Intelligence Workshop |
 | ☕ Java | Java Programming Certification |
