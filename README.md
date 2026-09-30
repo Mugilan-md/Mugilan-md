@@ -633,8 +633,6 @@ A cloud-based civic issue reporting platform enabling citizens to report local i
 
 <br><br>
 
-> 🚀 More coding platforms coming soon...
-
 </div>
 
 ---
